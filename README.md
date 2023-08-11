@@ -1,6 +1,6 @@
-# codegolfparty-live
+# ACS-Completition
 
-Live scoreboard for Code Golf Party #1.
+Live scoreboard for ACS Completition-1 
 
 ## Setting up
 
