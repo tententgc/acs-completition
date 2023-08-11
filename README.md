@@ -32,9 +32,6 @@ Live scoreboard for ACS Completition-1
 
   - **On your screen,** select "Tools"
 
-- Check out the **Tools** page:
-
-  > ![localhost_2427__mode=tools (2)](https://user-images.githubusercontent.com/193136/186494051-348cc310-006e-4a6d-bea0-aa17c986cb08.png)
 
   1. You can copy CodinGame’s result screen and paste it into the tools page. It will generate the code that can be pasted into `data.ts`.
   2. At the bottom left shows the "Preview" screen.
